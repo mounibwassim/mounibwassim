@@ -1,35 +1,49 @@
-# Hi there, I'm Mounib 👋
+# <div align="center">
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning!)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=80&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=MOUNIB;%F0%9F%90%89+MOUNIB+%F0%9F%94%A5;DEVELOPER;AI+ENTHUSIAST" alt="Mounib" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Always+Coding+%F0%9F%92%BB;Always+Creating+%E2%9C%A8;Building+The+Future+%F0%9F%A4%96" alt="Status" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm **Mounib**, a passionate programmer and problem solver on a journey to master the art of code!
+## 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
 
-- 🎓 Currently pursuing **Artificial Intelligence Degree**
-- 💻 Building projects with **Python, C++, HTML, CSS**
-- 🤖 Exploring **Machine Learning** and **AI** in Google Colab
-- 🔥 Transforming ideas into reality through elegant code
-- 💡 I believe in continuous learning and creative problem-solving
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 About Me
+
+I'm **Mounib**, a passionate programmer on an endless journey to master the art of code!
+
+🎓 **Artificial Intelligence Degree** Student  
+🧠 Exploring the depths of AI & Machine Learning  
+🐍 Python wizard crafting automation magic  
+⚙️ C++ enthusiast building powerful solutions  
+🎨 Creating stunning web experiences  
+💡 Transforming ideas into reality through code  
+🔥 Never stop learning, never stop growing
 
 ---
 
-## ⚡ Tech Stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+## ⚡ My Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,github&theme=dark" />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Pro-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Master-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling%20Wizard-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-AI%20Lab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -37,38 +51,66 @@ I'm **Mounib**, a passionate programmer and problem solver on a journey to maste
 
 ## 🔥 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎨 Web Design Masterpiece
-Crafted stunning, responsive web interfaces with modern CSS animations and HTML5 structure.
-- **Tech:** HTML, CSS
-- **Features:** Responsive design, Modern animations
+Crafted stunning, responsive web interfaces with modern CSS animations and HTML5 structure that brings designs to life!
+
+**Tech Stack:** `HTML` `CSS`  
+**Highlights:**  
+✨ Responsive Design  
+🎭 Modern Animations  
+🚀 Performance Optimized
+
+</td>
+<td width="50%">
 
 ### 🐍 Python Automation Suite
-Built powerful automation scripts and data processing tools that save hours of manual work.
-- **Tech:** Python
-- **Features:** Data processing, Task automation
+Built powerful automation scripts and data processing tools that transform hours of manual work into seconds!
+
+**Tech Stack:** `Python`  
+**Highlights:**  
+⚡ Smart Automation  
+📊 Data Processing  
+🎯 Efficiency Boost
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🤖 AI/ML Experiments
-Exploring machine learning algorithms and AI models in Google Colab for innovative solutions.
-- **Tech:** Python, Google Colab
-- **Features:** ML models, AI algorithms
+Exploring machine learning algorithms and AI models in Google Colab, building intelligent solutions for tomorrow!
+
+**Tech Stack:** `Python` `Colab`  
+**Highlights:**  
+🧠 ML Models  
+🤖 AI Algorithms  
+📈 Deep Learning
+
+</td>
+<td width="50%">
+
+### 💻 Coming Soon...
+Always working on something new and exciting! Stay tuned for more innovative projects!
+
+**Status:** `In Development`  
+**Highlights:**  
+🚧 Under Construction  
+💡 Big Ideas  
+🎉 Innovation Ahead
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-</div>
-
----
-
-## 🎯 Current Focus
+## 🎯 What Drives Me
 
 ```python
 class Mounib:
@@ -77,34 +119,40 @@ class Mounib:
         self.role = "Full Stack Developer & AI Enthusiast"
         self.education = "Artificial Intelligence Degree"
         self.languages = ["Python", "C++", "SQL", "HTML", "CSS"]
-        self.focus = "Building AI-powered solutions"
+        self.motto = "Code. Create. Innovate."
+        self.status = "Always Learning 🚀"
     
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something amazing!")
+    def daily_routine(self):
+        return [
+            "☕ Coffee",
+            "💻 Code",
+            "🧠 Learn Something New",
+            "🔥 Build Cool Stuff",
+            "🌙 Dream in Code"
+        ]
+    
+    def life_philosophy(self):
+        return "Every line of code is a step towards the future!"
 
 me = Mounib()
-me.say_hi()
+print(me.life_philosophy())
 ```
 
----
-
-## 🌟 What I'm Learning
-
-- 🧠 Deep Learning & Neural Networks
-- 🤖 Machine Learning Algorithms
-- 📊 Data Science & Analytics
-- 🚀 Advanced Python Programming
-- 💻 Web Development Best Practices
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🌟 Currently Exploring
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+| 🧠 Deep Learning | 🤖 Machine Learning | 📊 Data Science |
+|:---:|:---:|:---:|
+| Neural Networks | Advanced Algorithms | Analytics & Visualization |
+
+| 🐍 Advanced Python | 💻 Web Dev | 🔮 Innovation |
+|:---:|:---:|:---:|
+| Optimization | Best Practices | Next-Gen Solutions |
 
 </div>
 
@@ -112,18 +160,37 @@ me.say_hi()
 
 <div align="center">
 
-### ✨ Always learning, always coding, always creating ✨
+## 🎓 Education & Growth
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+**🤖 Artificial Intelligence Degree**
 
-**💬 Let's connect and build something amazing together!**
+*Diving deep into the world of AI, machine learning, and intelligent systems.*  
+*Building the future, one algorithm at a time!*
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 🐉 Code. Create. Innovate. 🔥
+
+## 📫 Let's Connect!
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mounib.mt/)
+
+### 💬 **Open to collaborations, opportunities, and building amazing things together!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐉 Code • Create • Innovate 🔥
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff6b6b&style=for-the-badge)
+
+**✨ Always Learning • Always Coding • Always Creating ✨**
 
 </div>
