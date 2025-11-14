@@ -1,8 +1,10 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=80&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=MOUNIB;%F0%9F%90%89+MOUNIB+%F0%9F%94%A5;DEVELOPER; alt="Mounib" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=100&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=120&lines=MOUNIB;M+O+U+N+I+B;%F0%9F%94%A5+MOUNIB+%F0%9F%94%A5" alt="Mounib" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Always+Coding+%F0%9F%92%BB;Always+Creating+%E2%9C%A8;Building+The+Future+%F0%9F%A4%96" alt="Status" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=DEVELOPER;AI+DEVELOPER;FULL+STACK+DEVELOPER;PYTHON+DEVELOPER" alt="Developer" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Always+Coding+%F0%9F%92%BB;Always+Creating+%E2%9C%A8;Building+The+Future+%F0%9F%A4%96" alt="Status" />
 
 </div>
 
@@ -14,7 +16,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### 👨‍💻 About Me
 
@@ -105,40 +107,6 @@ Always working on something new and exciting! Stay tuned for more innovative pro
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 🎯 What Drives Me
-
-```python
-class Mounib:
-    def __init__(self):
-        self.name = "Mounib"
-        self.role = "Full Stack Developer & AI Enthusiast"
-        self.education = "Artificial Intelligence Degree"
-        self.languages = ["Python", "C++", "SQL", "HTML", "CSS"]
-        self.motto = "Code. Create. Innovate."
-        self.status = "Always Learning 🚀"
-    
-    def daily_routine(self):
-        return [
-            "☕ Coffee",
-            "💻 Code",
-            "🧠 Learn Something New",
-            "🔥 Build Cool Stuff",
-            "🌙 Dream in Code"
-        ]
-    
-    def life_philosophy(self):
-        return "Every line of code is a step towards the future!"
-
-me = Mounib()
-print(me.life_philosophy())
-```
-
-</div>
 
 ---
 
