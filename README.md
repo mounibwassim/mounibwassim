@@ -1,78 +1,54 @@
-<!-- 3D Name Text (GitHub doesn't allow real 3D, so we simulate it) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FF6A00&center=true&vCenter=true&width=600&height=70&lines=Mounib+Meftah;Programmer+%26+AI+Student;Creative+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&weight=900&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=MOUNIB" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="250" />
+  <!-- DRAGON BREATHING FIRE AT A COMPUTER -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmg4cWFudmNwc2tlMjBzc3I1ZWJxMDIxN3d5MThqamJmY3kzeHBxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UqZ75jdJB8oKk/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVuZTFmZ3Z5bDZiZjdra2Z6Z3N0NTk5NWltazN4NXFvem1laTY5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mbh0VqsddcG7aFW/giphy.gif" width="260" />
 </p>
 
----
-
-## 🔥 About Me  
-Hi! I’m **Mounib Meftah**, a passionate **programmer and AI student**, building projects in  
-**Python, Web Development, Data, and Machine Learning**.
-
-✨ People who see my work should think:  
-👉 *“OMG… perfect programmer!”*
-
-🎓 **Artificial Intelligence Degree (Final Year — 2026)**  
-📍 Open to collaborations  
-
----
-
-## 🐉 Dragon Power (GIF)
 <p align="center">
-  <img src="https://media.giphy.com/media/2t9rJq8v3xvTnC0aGc/giphy.gif" width="350" />
+  <strong style="font-size:18px; color:white;">Dragon mode activated — burning code into reality 🔥💻</strong>
 </p>
 
 ---
 
-## 🚀 Skills  
-Here are the technologies I use — with icons that GitHub supports:
+## 🖤 About Me (Black & White Mode)
+Hi, I'm **Mounib** — a programmer and AI student.  
+I build clean, powerful, aesthetic code.
 
-### **Programming Languages**
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</p>
+🎓 **Artificial Intelligence Degree**  
+🛠️ **Python — C++ — SQL — HTML — CSS — Colab**  
+🔥 Creating projects that make people say: *“WTF this guy is a beast!”*
 
-### **Web Development**
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</p>
+---
 
-### **Tools**
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <img height="40" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
+## ⚙️ Skills  
+<p align="center">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="45" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 </p>
 
 ---
 
-## 📂 Projects  
-### 🔸 **Portfolio Website** (HTML + CSS)  
-➡ Responsive design & animations  
-✔ Available in your repository
-
-### 🔸 **Python Data Visualizer**  
-➡ Notebooks + Analysis  
-✔ Built on **Colab**
+## 🐉 Extra Dragon Fire (GIF)
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="330" />
+</p>
 
 ---
 
-## 📬 Connect With Me
-<p>
-  <a href="https://instagram.com/YOUR_NAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img height="50" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="50" src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
----
-
-### ⭐ If you like my profile, don’t forget to star my repositories!
