@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=80&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=MOUNIB;%F0%9F%90%89+MOUNIB+%F0%9F%94%A5;DEVELOPER;AI+ENTHUSIAST" alt="Mounib" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=80&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=MOUNIB;%F0%9F%90%89+MOUNIB+%F0%9F%94%A5;DEVELOPER; alt="Mounib" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Always+Coding+%F0%9F%92%BB;Always+Creating+%E2%9C%A8;Building+The+Future+%F0%9F%A4%96" alt="Status" />
 
