@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mounibwassim&color=00C853&style=for-the-badge)
 # <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=100&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=120&lines=MOUNIB;M+O+U+N+I+B;%F0%9F%94%A5+MOUNIB+%F0%9F%94%A5" alt="Mounib" />
@@ -158,7 +159,6 @@ Always working on something new and exciting! Stay tuned for more innovative pro
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
 
-![](https://komarev.com/ghpvc/?username=mounibwassim&color=ff6b6b&style=for-the-badge)
 **✨ Always Learning • Always Coding • Always Creating ✨**
 
 </div>
