@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=mounibwassim&color=00C853&style=for-the-badge)
 # <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=100&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&height=120&lines=MOUNIB;M+O+U+N+I+B;%F0%9F%94%A5+MOUNIB+%F0%9F%94%A5" alt="Mounib" />
@@ -12,6 +11,7 @@
 ---
 
 <div align="center">
+![](https://komarev.com/ghpvc/?username=mounibwassim&color=00C853&style=for-the-badge)
 
 ## 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
 
