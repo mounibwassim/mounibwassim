@@ -144,6 +144,7 @@ Always working on something new and exciting! Stay tuned for more innovative pro
 ## 📫 Let's Connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mounib.mt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounib-wassim-meftah-53ab9132b/)
 
 ### 💬 **Open to collaborations, opportunities, and building amazing things together!**
 
@@ -157,8 +158,7 @@ Always working on something new and exciting! Stay tuned for more innovative pro
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff6b6b&style=for-the-badge)
-
+![](https://komarev.com/ghpvc/?username=mounibwassim&color=ff6b6b&style=for-the-badge)
 **✨ Always Learning • Always Coding • Always Creating ✨**
 
 </div>
